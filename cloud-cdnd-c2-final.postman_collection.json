@@ -6,12 +6,12 @@
 	},
 	"item": [
 		{
-			"name": "http://localhost:8082/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
+			"name": "http://localhost:8082/filteredimage?image_url=https://cdn.dribbble.com/users/1044993/screenshots/14320957/media/d1cf37b04e4c199d1f4ed66c4ce2e659.png?compress=1&resize=400x300",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://{{HOST}}/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
+					"raw": "http://{{HOST}}/filteredimage?image_url=https://cdn.dribbble.com/users/1044993/screenshots/14320957/media/d1cf37b04e4c199d1f4ed66c4ce2e659.png?compress=1&resize=400x300",
 					"protocol": "http",
 					"host": [
 						"{{HOST}}"
@@ -22,7 +22,7 @@
 					"query": [
 						{
 							"key": "image_url",
-							"value": "https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg"
+							"value": "https://cdn.dribbble.com/users/1044993/screenshots/14320957/media/d1cf37b04e4c199d1f4ed66c4ce2e659.png?compress=1&resize=400x300"
 						}
 					]
 				}
